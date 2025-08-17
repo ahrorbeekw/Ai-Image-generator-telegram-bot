@@ -28,5 +28,5 @@ Bot foydalanuvchidan matn (`prompt`) qabul qiladi va **Pollinations AI API** yor
 
 1. **Loyihani klon qiling**
    ```bash
-   git clone https://github.com/username/ai-image-bot.git
+   git clone https://github.com/ahrorbeekw/ai-image-bot.git
    cd ai-image-bot
